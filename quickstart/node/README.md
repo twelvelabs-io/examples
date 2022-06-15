@@ -28,7 +28,7 @@
 
 2. Open the `quickstart.js` file in a plain-text editor and replace the following placeholders surrounded by `<>` with your values:
   - <YOUR_INDEX_NAME>
-  - <FILE_PATH>
+  - <YOUR_FILE_PATH>
 
 3. Run the program:
 

@@ -1,7 +1,8 @@
 # Twelve Labs Examples
 
+This repo contains examples demonstrating how to use Twelve Labs Video Understanding API.
 
-This repository holds the following guides and examples:
+## Quickstart
 
 - [Node.js quickstart](quickstart/node/README.md)
 - [Python quickstart](quickstart/python/README.md)
