@@ -71,7 +71,8 @@
     resp = await axios(config)
     response = await resp.data
     STATUS = response.status
-    await new Promise(r => setTimeout(r, 10000));
+    if (STATUS !== 'ready')
+      await new Promise(r => setTimeout(r, 10000));
   } while (STATUS !== 'ready')
   console.log(STATUS)
   console.log(response)
