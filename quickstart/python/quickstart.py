@@ -35,7 +35,7 @@ data = {
     "index_id": INDEX_ID, 
     "language": "en"
 }
-file_param=[('file', (file_name, file_stream, 'application/octet-stream'))]
+file_param=[('video_file', (file_name, file_stream, 'application/octet-stream'))]
 response = requests.post(INDEX_TASK_URL, headers=headers, data=data, files=file_param)
 TASK_ID = response.json().get('_id')
 pprint (response.status_code)

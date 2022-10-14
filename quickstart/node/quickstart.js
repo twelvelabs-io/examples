@@ -44,7 +44,7 @@
   let formData = new FormData()
   formData.append('INDEX_ID', INDEX_ID)
   formData.append('language', 'en')
-  formData.append('file', file_stream)
+  formData.append('video_file', file_stream)
   config = {
     method: 'post',
     url: INDEX_TASK_URL,
