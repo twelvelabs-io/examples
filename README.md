@@ -1,6 +1,6 @@
 # ⚠️ This repository is archived
 
-This repository is no longer maintained. For the latest examples and documentation, please visit [docs.twelvelabs.io](https://docs.twelvelabs.io).
+This repository is no longer maintained or actively tested. For the latest examples and documentation, please visit [docs.twelvelabs.io](https://docs.twelvelabs.io).
 
 ---
 
