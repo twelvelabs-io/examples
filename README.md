@@ -1,3 +1,9 @@
+# ⚠️ This repository is archived
+
+This repository is no longer maintained. For the latest examples and documentation, please visit [docs.twelvelabs.io](https://docs.twelvelabs.io).
+
+---
+
 # Twelve Labs Examples
 
 This repo contains examples demonstrating how to use Twelve Labs Video Understanding API.
